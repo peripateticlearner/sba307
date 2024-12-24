@@ -20,6 +20,7 @@ body {
     background-color: #001F3F; /* Navy blue */
     border-color: #001F3F;
     color: #FFFFFF;
+    transition: background-color 0.3s ease, color 0.3s ease;
   }
   
   .btn-primary:hover {
@@ -32,6 +33,7 @@ body {
     background-color: #DAA520; /* Gold */
     border-color: #DAA520;
     color: #000000;
+    transition: background-color 0.3s ease, color 0.3s ease;
   }
   
   /* Sidebar */
@@ -58,3 +60,6 @@ body {
     color: #001F3F; /* Navy blue titles */
   }
   
+  .btn:hover {
+    transform: scale(1.05);
+  }
