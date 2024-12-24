@@ -1,7 +1,7 @@
 # RTT-60-2024 Class Repo
 
 ## Description
-Code repo for RTT-60-2024 cohort.
+A 6 page site for a small taxi business.
 
 ### Technologies
 - HTML
