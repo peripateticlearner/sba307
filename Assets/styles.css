@@ -1,0 +1,60 @@
+/* General Colors */
+body {
+    background-color: #F5F5F5;
+    color: #333333; /* Dark gray for text */
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #000000; /* Black */
+    color: #FFFFFF; /* White text */
+  }
+  
+  footer {
+    background-color: #333333; /* Charcoal gray */
+    color: #FFFFFF; /* White text */
+  }
+  
+  /* Buttons */
+  .btn-primary {
+    background-color: #001F3F; /* Navy blue */
+    border-color: #001F3F;
+    color: #FFFFFF;
+  }
+  
+  .btn-primary:hover {
+    background-color: #DAA520; /* Gold on hover */
+    border-color: #DAA520;
+    color: #000000;
+  }
+  
+  .btn-danger {
+    background-color: #DAA520; /* Gold */
+    border-color: #DAA520;
+    color: #000000;
+  }
+  
+  /* Sidebar */
+  aside {
+    background-color: #333333; /* Charcoal gray */
+    color: #FFFFFF;
+  }
+  
+  .nav-link {
+    color: #FFFFFF; /* White links */
+  }
+  
+  .nav-link:hover {
+    color: #DAA520; /* Gold on hover */
+  }
+  
+  /* Cards */
+  .card {
+    background-color: #FFFFFF;
+    border: 1px solid #CCCCCC; /* Light gray border */
+  }
+  
+  .card h5 {
+    color: #001F3F; /* Navy blue titles */
+  }
+  
